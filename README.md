@@ -9,7 +9,7 @@ This is a template you can use for your next data engineering portfolio project.
 Here you want to write a short overview of the goals of your project and how it works at a high level. If possible, include one or two images of the end product and architecture diagram (see examples below). diagrams.net is a great tool for creating architecture diagrams.
 
 ### Data Visualization
-[Link] (https://lookerstudio.google.com/reporting/6e4ce372-518e-4a7e-ac47-fb5f533a15a8)
+[Link](https://lookerstudio.google.com/reporting/6e4ce372-518e-4a7e-ac47-fb5f533a15a8)
 ![Example dashboard image](example-dashboard.png)
 
 ### Data Architecture
